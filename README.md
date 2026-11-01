@@ -1,4 +1,7 @@
 <!-- GitHub Profile README — Supriya -->
+<p align="center">
+  <img src="Screenshot 2026-11-01 123129.png" width="600px" alt="Moon and stars animation"/>
+</p>
 
 <h1 align="center">
   Hello 👋, <span style="font-family:monospace;">I'm  </span>Supriya
