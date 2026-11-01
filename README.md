@@ -1,7 +1,7 @@
 <!-- GitHub Profile README — Supriya -->
 
 <p align="center">
-  <img src="header.gif" width="600px" alt="Supriya coding banner"/>
+  <img src="header_moon_stars.gif" width="600px" alt="Moon and stars animation"/>
 </p>
 
 <h1 align="center">
@@ -64,8 +64,8 @@
 ### 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/Kuvendrahansithadevi/Life-Link">
-    <img src="https://img.shields.io/badge/Life--Link-AI%20Healthcare-02daed?style=for-the-badge&logo=github&logoColor=white" alt="Life-Link"/>
+  <a href="https://lioralifelink.netlify.app/">
+    <img src="https://img.shields.io/badge/Life--Link-AI%20Healthcare-02daed?style=for-the-badge&logo=netlify&logoColor=white" alt="Life-Link"/>
   </a>
 </p>
 
@@ -83,7 +83,7 @@ AI-powered healthcare application designed to make healthcare assistance more ac
 
 <p align="center">
   <a href="https://supriyakayala.netlify.app/">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Personal%20Website-5072ed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/My%20Portfolio-Personal%20Website-5072ed?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
