@@ -1,7 +1,7 @@
 <!-- GitHub Profile README — Supriya -->
 
 <h1 align="center">
-  Hello 👋, <span style="font-family:monospace;">I'm</span>Supriya
+  Hello 👋, <span style="font-family:monospace;">I'm  </span>Supriya
 </h1>
 
 <br>
